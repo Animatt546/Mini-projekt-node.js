@@ -1,8 +1,8 @@
 {
   "name": "lekcja-9",
   "version": "1.0.0",
-  "description": "",
-  "main": "server01.js",
+  "description": "opis",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
   },
